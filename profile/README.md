@@ -37,7 +37,7 @@
 
 有问题，或只是想打个招呼？
 
-✉️ [kaedeshimizu@qq.com](mailto:kaedeshimizu@qq.com)
+✉️ [talyra42@foxmail.com](mailto:talyra42@foxmail.com)
 
 ---
 
