@@ -14,6 +14,7 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
+| [tool-pilot](https://github.com/LumiDesk/tool-pilot) | 面向英文 SEO 市场的浏览器工具站，集成图片 / PDF / 开发者 / 文本共 20 款工具，全部本地处理零上传。Next.js 16 · React 19 · Tailwind v4 · 中英双语。 | TypeScript | 0 |
 | [clean-sweep](https://github.com/LumiDesk/clean-sweep) | 一键清空各类开发缓存，以及部分用户目录、应用配置的命令行小工具。 | Python | 0 |
 | [k-encrypt](https://github.com/LumiDesk/k-encrypt) | 一种新的加密方式。 | Python | 0 |
 | [bili-video-merger](https://github.com/LumiDesk/bili-video-merger) | 基于 Python + FFmpeg 的命令行小工具，用于把 B站客户端缓存 下的 video.m4s 与 audio.m4s 批量合并为可直接播放的 mp4 文件。 | Python | 0 |
