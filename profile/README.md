@@ -14,7 +14,7 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 35 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 45 |
 | [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | Vue | 2 |
 | [clean-sweep-tui](https://github.com/LumiDesk/clean-sweep-tui) | 一键清空各类开发缓存，以及部分用户目录、应用配置的命令行小工具。 | Python | 0 |
 | [siyuan-copilot](https://github.com/LumiDesk/siyuan-copilot) | 「你思源笔记的 AI 副驾」：读、搜、统计、陪聊进度，一看就懂你在做什么。 | Python | 0 |
