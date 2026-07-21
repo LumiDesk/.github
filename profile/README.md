@@ -14,8 +14,8 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 89 |
-| [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | Vue | 2 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 88 |
+| [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | TypeScript | 6 |
 | [clean-sweep-tui](https://github.com/LumiDesk/clean-sweep-tui) | 一键清空各类开发缓存，以及部分用户目录、应用配置的命令行小工具。 | Python | 0 |
 | [siyuan-copilot](https://github.com/LumiDesk/siyuan-copilot) | 「你思源笔记的 AI 副驾」：读、搜、统计、陪聊进度，一看就懂你在做什么。 | Python | 0 |
 | [tool-pilot](https://github.com/LumiDesk/tool-pilot) | 面向英文 SEO 市场的浏览器工具站，集成图片 / PDF / 开发者 / 文本共 20 款工具，全部本地处理零上传。Next.js 16 · React 19 · Tailwind v4 · 中英双语。 | TypeScript | 0 |
