@@ -14,9 +14,9 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 133 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 136 |
 | [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | TypeScript | 11 |
-| [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 3 |
+| [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 4 |
 | [hexo-workbench](https://github.com/LumiDesk/hexo-workbench) | A focused VS Code authoring environment for Hexo blogs — with smart post creation, asset-aware image pasting, local preview, and Git-friendly workflows. | TypeScript | 0 |
 | [better-project-manager](https://github.com/LumiDesk/better-project-manager) | 一个用于管理多个项目的 VS Code 扩展。通过这个扩展，你可以轻松地添加、组织和快速访问你的项目。 | TypeScript | 0 |
 | [clean-sweep-tui](https://github.com/LumiDesk/clean-sweep-tui) | 一键清空各类开发缓存，以及部分用户目录、应用配置的命令行小工具。 | Python | 0 |
