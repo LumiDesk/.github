@@ -14,9 +14,10 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 167 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 171 |
 | [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | TypeScript | 11 |
 | [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 5 |
+| [dsh-wallet-pill](https://github.com/LumiDesk/dsh-wallet-pill) | DeepSeek Harness 余额胶囊：输入框下方显示账户余额，点开查看峰谷价目与切换倒计时。 | TypeScript | 0 |
 | [dsh-archive-desk](https://github.com/LumiDesk/dsh-archive-desk) | Archived-conversation workspace for DeepSeek Harness: browse with previews, restore, recycle, and permanently delete — batch actions, crash-safe transactions, and an Agent-callable tool. 归档会话工作台：预览、恢复、回收站、彻底删除，支持批量与 Agent 调用。 | TypeScript | 0 |
 | [verifin-site](https://github.com/LumiDesk/verifin-site) | Verifin's official website. (Not the web version of verifin) | TypeScript | 0 |
 | [anchored_menu](https://github.com/LumiDesk/anchored_menu) | A lightweight Flutter anchored popup menu with recursive card-style submenus, controlled selection, and customizable theming. | Dart | 0 |
