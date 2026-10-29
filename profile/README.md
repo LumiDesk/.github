@@ -14,7 +14,7 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 174 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 175 |
 | [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | TypeScript | 11 |
 | [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 5 |
 | [ba-sensei-box](https://github.com/LumiDesk/ba-sensei-box) | Offline-first Blue Archive (Global) roster picker · 蔚蓝档案国际服学生清单：勾选 box、导出名单码，交给 Sensei 配队。 | TypeScript | 0 |
