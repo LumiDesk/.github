@@ -14,9 +14,9 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 176 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 177 |
 | [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | TypeScript | 11 |
-| [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 7 |
+| [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 8 |
 | [whale-companion](https://github.com/LumiDesk/whale-companion) | 独立的 QQ 陪伴机器人：人设、长期记忆、表情包、主动搭话，附带 Windows 桌面控制台。 | TypeScript | 3 |
 | [key-case](https://github.com/LumiDesk/key-case) | Local-first, offline Android password manager and TOTP authenticator. No account, no cloud, no INTERNET permission. | Dart | 1 |
 | [ba-sensei-box](https://github.com/LumiDesk/ba-sensei-box) | Offline-first Blue Archive (Global) roster picker · 蔚蓝档案国际服学生清单：勾选 box、导出名单码，交给 Sensei 配队。 | TypeScript | 0 |
