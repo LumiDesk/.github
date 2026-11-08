@@ -14,14 +14,14 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 180 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 181 |
 | [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | TypeScript | 11 |
 | [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 8 |
 | [whale-companion](https://github.com/LumiDesk/whale-companion) | 独立的 QQ 陪伴机器人：人设、长期记忆、表情包、主动搭话，附带 Windows 桌面控制台。 | TypeScript | 3 |
 | [key-case](https://github.com/LumiDesk/key-case) | Local-first, offline Android password manager and TOTP authenticator. No account, no cloud, no INTERNET permission. | Dart | 1 |
+| [dsh-wallet-pill](https://github.com/LumiDesk/dsh-wallet-pill) | DeepSeek Harness 余额胶囊：输入框下方显示账户余额，点开查看峰谷价目与切换倒计时。 | TypeScript | 0 |
 | [flutter-android-template](https://github.com/LumiDesk/flutter-android-template) | A local-first Flutter Android starter template: design tokens, zh/en l10n, CI and signed GitHub releases. | Dart | 0 |
 | [ba-sensei-box](https://github.com/LumiDesk/ba-sensei-box) | Offline-first Blue Archive (Global) roster picker · 蔚蓝档案国际服学生清单：勾选 box、导出名单码，交给 Sensei 配队。 | TypeScript | 0 |
-| [dsh-wallet-pill](https://github.com/LumiDesk/dsh-wallet-pill) | DeepSeek Harness 余额胶囊：输入框下方显示账户余额，点开查看峰谷价目与切换倒计时。 | TypeScript | 0 |
 | [dsh-archive-desk](https://github.com/LumiDesk/dsh-archive-desk) | Archived-conversation workspace for DeepSeek Harness: browse with previews, restore, recycle, and permanently delete — batch actions, crash-safe transactions, and an Agent-callable tool. 归档会话工作台：预览、恢复、回收站、彻底删除，支持批量与 Agent 调用。 | TypeScript | 0 |
 | [verifin-site](https://github.com/LumiDesk/verifin-site) | Verifin's official website. (Not the web version of verifin) | TypeScript | 0 |
 | [anchored_menu](https://github.com/LumiDesk/anchored_menu) | A lightweight Flutter anchored popup menu with recursive card-style submenus, controlled selection, and customizable theming. | Dart | 0 |
