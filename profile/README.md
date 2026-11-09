@@ -14,7 +14,7 @@
 
 | 项目 | 简介 | 语言 | Stars |
 | --- | --- | --- | :---: |
-| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 181 |
+| [verifin](https://github.com/LumiDesk/verifin) | 完全免费 · 开源 · 数据自主的极简记账工具 | Dart | 182 |
 | [islet](https://github.com/LumiDesk/islet) | 在信息爆炸的互联网海洋里，这个起始页就是属于你个人的数字小岛。 | TypeScript | 11 |
 | [hexo-theme-tessera](https://github.com/LumiDesk/hexo-theme-tessera) | Tessera，一个适用于 Hexo 的现代化、美观且功能丰富的主题。 | JavaScript | 8 |
 | [whale-companion](https://github.com/LumiDesk/whale-companion) | 独立的 QQ 陪伴机器人：人设、长期记忆、表情包、主动搭话，附带 Windows 桌面控制台。 | TypeScript | 3 |
