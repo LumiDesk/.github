@@ -20,6 +20,7 @@
 | [whale-companion](https://github.com/LumiDesk/whale-companion) | 独立的 QQ 陪伴机器人：人设、长期记忆、表情包、主动搭话，附带 Windows 桌面控制台。 | TypeScript | 2 |
 | [key-case](https://github.com/LumiDesk/key-case) | Local-first, offline Android password manager and TOTP authenticator. No account, no cloud, no INTERNET permission. | Dart | 1 |
 | [anchored_menu](https://github.com/LumiDesk/anchored_menu) | A lightweight Flutter anchored popup menu with recursive card-style submenus, controlled selection, and customizable theming. | Dart | 1 |
+| [android-task-manager](https://github.com/LumiDesk/android-task-manager) | Android task manager for rooted devices: processes, CPU/memory, network, safe actions. | Kotlin | 0 |
 | [dsh-wallet-pill](https://github.com/LumiDesk/dsh-wallet-pill) | DeepSeek Harness 余额胶囊：输入框下方显示账户余额，点开查看峰谷价目与切换倒计时。 | TypeScript | 0 |
 | [flutter-android-template](https://github.com/LumiDesk/flutter-android-template) | A local-first Flutter Android starter template: design tokens, zh/en l10n, CI and signed GitHub releases. | Dart | 0 |
 | [ba-sensei-box](https://github.com/LumiDesk/ba-sensei-box) | Offline-first Blue Archive (Global) roster picker · 蔚蓝档案国际服学生清单：勾选 box、导出名单码，交给 Sensei 配队。 | TypeScript | 0 |
